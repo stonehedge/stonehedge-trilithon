@@ -1,7 +1,7 @@
 Stonehedge Cookbook: Trilithon
 ==============================
 
-Use this Chef Cookbook to configure the Stonehedge Trilithon instances.
+Use this Chef Cookbook to configure Stonehedge Trilithon instances.
 
 
 Components
