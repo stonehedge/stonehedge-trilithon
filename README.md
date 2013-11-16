@@ -1,4 +1,14 @@
-stonehedge-trilithon
-====================
+Stonehedge Cookbook: Trilithon
+==============================
 
-Stonehedge Recipe: Trilithon
+Use this Chef Cookbook to configure the Stonehedge Trilithon instances.
+
+
+Components
+----------
+  - exhibitor
+  - mesos-master
+  - marathon-server
+  - peervpn
+  - stonehedge-base
+  - zookeeper
